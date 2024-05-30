@@ -1,2 +1,2 @@
 # Data-Cleaning-in-MySQL
-Creating world_layoffs database from a dataset
+Creating world_layoffs database from a dataset and cleaning the data
